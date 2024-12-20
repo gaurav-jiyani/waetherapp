@@ -1,0 +1,5 @@
+api.openweathermap.org/data/2.5/weather?q=Pune&appid=ea6ad85a130b074b2a4c08174eb4f3a0
+
+ea6ad85a130b074b2a4c08174eb4f3a0 - Default
+
+https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=ea6ad85a130b074b2a4c08174eb4f3a0
